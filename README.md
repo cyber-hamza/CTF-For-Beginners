@@ -42,3 +42,16 @@ MIT License – Free to use and modify
 
 This lab is designed strictly for educational purposes. Use it responsibly and legally.
 
+
+## 👥 Original Contributors
+
+This project was originally developed as part of a graduation team project by:
+
+- Mohamad Alsharou  
+- Mahmoud AL-bokhari  
+- Hamza AL-khazali
+
+Published and maintained on GitHub by **Hamza AL-khazali** ([@cyber-hamza](https://github.com/cyber-hamza)) for educational purposes.
+
+
+
